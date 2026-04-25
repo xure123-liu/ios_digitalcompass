@@ -1,0 +1,151 @@
+// MARK: - App
+"app_name" = "デジタルコンパス";
+
+// MARK: - Navigation
+"back" = "戻る";
+"done" = "完了";
+"ok" = "OK";
+
+// MARK: - Home
+"current_direction" = "現在の方向";
+"accuracy_status" = "精度";
+"avoid_interference" = "磁石/電池/コンピューターから離してください";
+"calibrate" = "校正";
+"qibla" = "キブラ";
+"disclaimer" = "方向は参考用です。機器環境に影響されます";
+
+// MARK: - Accuracy Status
+"accuracy_good" = "良好";
+"accuracy_fair" = "普通";
+"accuracy_poor" = "悪い";
+"accuracy_unknown" = "不明";
+
+// MARK: - Directions
+"direction_n" = "北";
+"direction_nne" = "北北東";
+"direction_ne" = "北東";
+"direction_ene" = "東北東";
+"direction_e" = "東";
+"direction_ese" = "東南東";
+"direction_se" = "南東";
+"direction_sse" = "南南東";
+"direction_s" = "南";
+"direction_ssw" = "南南西";
+"direction_sw" = "南西";
+"direction_wsw" = "西南西";
+"direction_w" = "西";
+"direction_wnw" = "西北西";
+"direction_nw" = "北西";
+"direction_nnw" = "北北西";
+
+// MARK: - Calibration
+"calibration_title" = "コンパスの校正";
+"calibration_instruction" = "図のようにゆっくり移動してください";
+"calibration_step1" = "磁石/電池/コンピューターから離してください";
+"calibration_step2" = "8の字をゆっくり振ってください";
+"calibration_step3" = "精度が向上するまで3-5秒保持してください";
+"calibration_progress" = "校正の進行状況";
+"calibration_status" = "現在の状態";
+"calibrating" = "校正中";
+"calibration_done" = "完了";
+"continue_calibration" = "続行";
+"done_and_return" = "完了して戻る";
+
+// MARK: - Qibla
+"qibla_title" = "キブラの方向";
+"current_heading" = "現在の向き";
+"qibla_direction" = "キブラの方向";
+"qibla_aligned" = "キブラに合わせました";
+"rotate_clockwise" = "時計回りに回転";
+"rotate_counterclockwise" = "反時計回りに回転";
+"rotate_degrees_format" = "%.0f°回転してください";
+"reposition" = "再位置決め";
+"back_to_home" = "ホーム";
+"qibla_instruction" = "矢印がキブラを指すように回転してください";
+
+// MARK: - Location Status
+"location_unknown" = "位置情報を待っています...";
+"location_loading" = "位置情報を取得中...";
+"location_authorized" = "位置情報を取得しました";
+"location_denied" = "位置情報の許可が拒否されました";
+"location_error" = "位置情報エラー";
+
+// MARK: - Settings
+"settings_title" = "設定";
+"theme" = "テーマ";
+"language" = "言語";
+"accuracy_tips" = "精度のヒント";
+"sound_feedback" = "サウンドフィードバック";
+"help_center" = "ヘルプセンター";
+"privacy_policy" = "プライバシーポリシー";
+"user_terms" = "利用規約";
+"subscription_terms" = "サブスクリプション規約";
+"restore_purchase" = "購入を復元";
+"upgrade_pro" = "Proにアップグレード";
+"select_theme" = "テーマを選択";
+"select_language" = "言語を選択";
+
+// MARK: - Themes
+"theme_classic" = "クラシックブルー";
+"theme_dark" = "ダーク";
+"theme_light" = "ライト";
+"theme_pro_ocean" = "Pro オーシャン";
+"theme_pro_sunset" = "Pro サンセット";
+
+// MARK: - Languages
+"lang_system" = "システム";
+
+// MARK: - Subscription
+"upgrade_pro_title" = "Proにアップグレード";
+"subscribe_now" = "今すぐ購読";
+"monthly" = "月額";
+"yearly" = "年額";
+"month" = "月";
+"year" = "年";
+"recommended" = "おすすめ";
+"save_44" = "44%お得";
+"all_pro_benefits" = "すべてのPro特典";
+"short_term" = "短期利用に最適";
+"view_terms" = "規約を表示";
+"subscription_note" = "サブスクリプションはAppleアカウントに課金され、自動更新されます";
+
+// MARK: - Benefits
+"benefit_adfree" = "広告なしで利用";
+"benefit_themes" = "プレミアムテーマとスタイル";
+"benefit_styles" = "より豊富な文字盤スタイル";
+"benefit_updates" = "アップデートでプレミアム機能";
+
+// MARK: - Purchase Messages
+"purchase_success" = "サブスクリプション成功！";
+"purchase_failed" = "サブスクリプション失敗";
+"restore_success" = "購入を復元しました！";
+"restore_failed" = "購入の復元に失敗しました";
+
+// MARK: - Errors
+"error_product_not_found" = "商品が見つかりません";
+"error_purchase_failed" = "購入に失敗しました。もう一度お試しください";
+"error_restore_failed" = "購入の復元に失敗しました";
+"error_user_cancelled" = "購入がキャンセルされました";
+"error_purchase_pending" = "購入保留中";
+
+// MARK: - Legal Documents
+"privacy_policy_title" = "プライバシーポリシー";
+"user_terms_title" = "利用規約";
+"subscription_terms_title" = "サブスクリプション規約";
+
+"privacy_policy_content" = "プライバシーポリシー\n\n最終更新日：2026年4月\n\n1. データ収集\nデジタルコンパスは、デバイスの方向センサーと位置データを読み取ります（キブラ計算用）。\n\n2. データの使用\n- 位置データはキブラ計算のみに使用\n- アカウントシステムやクラウド同期なし\n- 機能に関係ない個人情報は収集しない\n\n3. データの保存\nすべてのデータはデバイスにローカルに保存されます。\n\n4. 第三者\n第三者とデータを共有しません。\n\n5. 連絡先\nプライバシーに関するお問い合わせ：support@digitalcompass.app";
+
+"user_terms_content" = "利用規約\n\n最終更新日：2026年4月\n\n1. 同意\nデジタルコンパスを使用することで、本規約に同意したものとみなします。\n\n2. 使用ライセンス\nデジタルコンパスはツール参照アプリです。結果はデバイスの状態と環境に依存します。\n\n3. 免責事項\n- 方向結果は参考用です\n- 安全で合法的な環境で使用してください\n- 重要なナビゲーションにのみ依存しないでください\n\n4. 変更の権利\n機能、価格、規約を更新する権利を留保します。\n\n5. 責任の制限\nアプリの使用による損害について責任を負いません。";
+
+"subscription_terms_content" = "サブスクリプション規約\n\n最終更新日：2026年4月\n\n1. 自動更新\nサブスクリプションは、期間終了の24時間前にキャンセルしない限り自動更新されます。\n\n2. 支払い\nAppleアカウントに課金されます。\n\n3. キャンセル\n設定 > Apple ID > サブスクリプションでいつでもキャンセルできます。\n\n4. 返金\nAppleのポリシーに従って処理されます。\n\n5. 購入の復元\n同じApple IDを使用するすべてのデバイスで購入を復元できます。";
+
+"onboarding_title_1" = "リアルタイムの方角と角度";
+"onboarding_body_1" = "コントラストの高いダイヤルに方角名と0～359°を表示。屋外でも見やすい表示です。";
+"onboarding_title_2" = "精度とキャリブレーション";
+"onboarding_body_2" = "精度が落ちたら8の字の動きを試し、磁石・乾電池・電磁干渉を避けてください。";
+"onboarding_title_3" = "聖地メッカ（キブラ）の方向";
+"onboarding_body_3" = "位置情報は、現在地からメッカへの大円方位を求める目的でのみ使用します。";
+"onboarding_next" = "次へ";
+"onboarding_get_started" = "始める";
+"onboarding_skip" = "スキップ";
+"help_page_content" = "ヘルプ\n\n• 起動：デバイスのデジタルコンパスが使えると、方角文字と角度が更新されます。\n\n• 精度：バーで良好/普通/不良。不安定なときは「キャリブレーション」で8の字を行ってください。\n\n• キブラ：位置情報（使用中）を許可。長距離移動後は「再位置測定」。\n\n• Pro：広告非表示、高級テーマとダイヤル。購入の復元は設定から同じApple IDで行えます。\n\n本アプリは参考用です。重要な行動の唯一の根拠にしないでください。";

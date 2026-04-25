@@ -1,0 +1,151 @@
+// MARK: - App
+"app_name" = "Digital Compass";
+
+// MARK: - Navigation
+"back" = "Back";
+"done" = "Done";
+"ok" = "OK";
+
+// MARK: - Home
+"current_direction" = "Current Direction";
+"accuracy_status" = "Accuracy";
+"avoid_interference" = "Keep away from magnets/batteries/computers to avoid interference";
+"calibrate" = "Calibrate";
+"qibla" = "Qibla";
+"disclaimer" = "Direction is for reference only, affected by device environment";
+
+// MARK: - Accuracy Status
+"accuracy_good" = "Good";
+"accuracy_fair" = "Fair";
+"accuracy_poor" = "Poor";
+"accuracy_unknown" = "Unknown";
+
+// MARK: - Directions
+"direction_n" = "North";
+"direction_nne" = "North-Northeast";
+"direction_ne" = "Northeast";
+"direction_ene" = "East-Northeast";
+"direction_e" = "East";
+"direction_ese" = "East-Southeast";
+"direction_se" = "Southeast";
+"direction_sse" = "South-Southeast";
+"direction_s" = "South";
+"direction_ssw" = "South-Southwest";
+"direction_sw" = "Southwest";
+"direction_wsw" = "West-Southwest";
+"direction_w" = "West";
+"direction_wnw" = "West-Northwest";
+"direction_nw" = "Northwest";
+"direction_nnw" = "North-Northwest";
+
+// MARK: - Calibration
+"calibration_title" = "Compass Calibration";
+"calibration_instruction" = "Move your phone slowly as shown";
+"calibration_step1" = "Keep away from magnets/batteries/computers";
+"calibration_step2" = "Swing slowly in a figure-8 pattern";
+"calibration_step3" = "Hold for 3-5 seconds until accuracy improves";
+"calibration_progress" = "Calibration Progress";
+"calibration_status" = "Current Status";
+"calibrating" = "Calibrating";
+"calibration_done" = "Done";
+"continue_calibration" = "Continue";
+"done_and_return" = "Done & Return";
+
+// MARK: - Qibla
+"qibla_title" = "Qibla Direction";
+"current_heading" = "Current";
+"qibla_direction" = "Qibla Direction";
+"qibla_aligned" = "Aligned with Qibla";
+"rotate_clockwise" = "Rotate Clockwise";
+"rotate_counterclockwise" = "Rotate Counter-Clockwise";
+"rotate_degrees_format" = "Rotate %.0f°";
+"reposition" = "Reposition";
+"back_to_home" = "Home";
+"qibla_instruction" = "Rotate your phone to align the arrow with Qibla";
+
+// MARK: - Location Status
+"location_unknown" = "Waiting for location...";
+"location_loading" = "Getting location...";
+"location_authorized" = "Location obtained";
+"location_denied" = "Location permission denied";
+"location_error" = "Location error";
+
+// MARK: - Settings
+"settings_title" = "Settings";
+"theme" = "Theme";
+"language" = "Language";
+"accuracy_tips" = "Accuracy Tips";
+"sound_feedback" = "Sound Feedback";
+"help_center" = "Help Center";
+"privacy_policy" = "Privacy Policy";
+"user_terms" = "Terms of Service";
+"subscription_terms" = "Subscription Terms";
+"restore_purchase" = "Restore Purchase";
+"upgrade_pro" = "Upgrade to Pro";
+"select_theme" = "Select Theme";
+"select_language" = "Select Language";
+
+// MARK: - Themes
+"theme_classic" = "Classic Blue";
+"theme_dark" = "Dark";
+"theme_light" = "Light";
+"theme_pro_ocean" = "Pro Ocean";
+"theme_pro_sunset" = "Pro Sunset";
+
+// MARK: - Languages
+"lang_system" = "System";
+
+// MARK: - Subscription
+"upgrade_pro_title" = "Upgrade to Pro";
+"subscribe_now" = "Subscribe Now";
+"monthly" = "Monthly";
+"yearly" = "Yearly";
+"month" = "month";
+"year" = "year";
+"recommended" = "RECOMMENDED";
+"save_44" = "Save 44%";
+"all_pro_benefits" = "All Pro benefits";
+"short_term" = "Good for short-term";
+"view_terms" = "View Terms";
+"subscription_note" = "Subscription will be charged to your Apple account and auto-renews";
+
+// MARK: - Benefits
+"benefit_adfree" = "Ad-free experience";
+"benefit_themes" = "Premium themes & visual styles";
+"benefit_styles" = "More compass dial styles";
+"benefit_updates" = "Premium features with updates";
+
+// MARK: - Purchase Messages
+"purchase_success" = "Subscription successful!";
+"purchase_failed" = "Subscription failed";
+"restore_success" = "Purchases restored successfully!";
+"restore_failed" = "Failed to restore purchases";
+
+// MARK: - Errors
+"error_product_not_found" = "Product not found";
+"error_purchase_failed" = "Purchase failed, please try again";
+"error_restore_failed" = "Failed to restore purchases";
+"error_user_cancelled" = "Purchase cancelled";
+"error_purchase_pending" = "Purchase pending approval";
+
+// MARK: - Legal Documents
+"privacy_policy_title" = "Privacy Policy";
+"user_terms_title" = "Terms of Service";
+"subscription_terms_title" = "Subscription Terms";
+
+"privacy_policy_content" = "Privacy Policy\n\nLast Updated: April 2026\n\n1. Data Collection\nDigital Compass reads device orientation sensors and location data (for Qibla direction calculation only).\n\n2. Data Usage\n- Location data is used solely for calculating Qibla direction\n- No account system or cloud sync\n- No personal information collected beyond functional requirements\n\n3. Data Storage\nAll data is stored locally on your device.\n\n4. Third Parties\nWe do not share data with third parties.\n\n5. Contact\nFor privacy questions, contact: support@digitalcompass.app";
+
+"user_terms_content" = "Terms of Service\n\nLast Updated: April 2026\n\n1. Acceptance\nBy using Digital Compass, you agree to these terms.\n\n2. Use License\nDigital Compass is a tool reference application. Results depend on device state and environment.\n\n3. Disclaimer\n- Direction results are for reference only\n- Use in safe, legal environments\n- Do not rely solely for critical navigation\n\n4. Modifications\nWe reserve the right to update features, pricing, and terms.\n\n5. Limitation\nWe are not liable for damages from app use.";
+
+"subscription_terms_content" = "Subscription Terms\n\nLast Updated: April 2026\n\n1. Auto-Renewal\nSubscriptions auto-renew unless cancelled 24 hours before period end.\n\n2. Payment\nCharged to Apple account.\n\n3. Cancellation\nCancel anytime in Settings > Apple ID > Subscriptions.\n\n4. Refunds\nHandled per Apple's policy.\n\n5. Restore\nRestore purchases on any device with the same Apple ID.";
+
+"onboarding_title_1" = "Real-time direction & angle";
+"onboarding_body_1" = "See the cardinal direction and digital degrees on a high-contrast dial, optimized for quick reading outdoors.";
+"onboarding_title_2" = "Accuracy and calibration";
+"onboarding_body_2" = "If accuracy is poor, follow the figure-8 guide—stay away from magnets, batteries, and computers.";
+"onboarding_title_3" = "Qibla (Mecca) direction";
+"onboarding_body_3" = "Location is used only to compute the great-circle bearing to Mecca from where you are.";
+"onboarding_next" = "Next";
+"onboarding_get_started" = "Get Started";
+"onboarding_skip" = "Skip";
+"help_page_content" = "How to use\n\n• Open the app: direction text and 0–359° update in real time when the device has a digital compass.\n\n• Precision: the bar and label show Good / Fair / Poor. Use Calibrate to follow the 8-figure pattern when readings are unstable.\n\n• Qibla: allow location (while in use) to compute the bearing to Mecca. Reposition if you have moved a long distance.\n\n• Pro: removes ads, unlocks advanced themes and dial styles, and future premium options via subscription. Restore purchases in Settings with the same Apple ID.\n\nNote: This app is a reference tool; do not use as the only source for safety-critical navigation.";

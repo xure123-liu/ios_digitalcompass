@@ -1,0 +1,151 @@
+// MARK: - App
+"app_name" = "البوصلة الرقمية";
+
+// MARK: - Navigation
+"back" = "رجوع";
+"done" = "تم";
+"ok" = "موافق";
+
+// MARK: - Home
+"current_direction" = "الاتجاه الحالي";
+"accuracy_status" = "الدقة";
+"avoid_interference" = "ابتعد عن المغناطيسات/البطاريات/الكمبيوتر";
+"calibrate" = "معايرة";
+"qibla" = "القبلة";
+"disclaimer" = "الاتجاه للإشارة فقط، يتأثر ببيئة الجهاز";
+
+// MARK: - Accuracy Status
+"accuracy_good" = "جيدة";
+"accuracy_fair" = "متوسطة";
+"accuracy_poor" = "ضعيفة";
+"accuracy_unknown" = "غير معروفة";
+
+// MARK: - Directions
+"direction_n" = "شمال";
+"direction_nne" = "شمال شمال شرق";
+"direction_ne" = "شمال شرق";
+"direction_ene" = "شرق شمال شرق";
+"direction_e" = "شرق";
+"direction_ese" = "شرق جنوب شرق";
+"direction_se" = "جنوب شرق";
+"direction_sse" = "جنوب جنوب شرق";
+"direction_s" = "جنوب";
+"direction_ssw" = "جنوب جنوب غرب";
+"direction_sw" = "جنوب غرب";
+"direction_wsw" = "غرب جنوب غرب";
+"direction_w" = "غرب";
+"direction_wnw" = "غرب شمال غرب";
+"direction_nw" = "شمال غرب";
+"direction_nnw" = "شمال شمال غرب";
+
+// MARK: - Calibration
+"calibration_title" = "معايرة البوصلة";
+"calibration_instruction" = "حرك هاتفك ببطء كما هو موضح";
+"calibration_step1" = "ابتعد عن المغناطيسات/البطاريات/الكمبيوتر";
+"calibration_step2" = "تأرجح ببطء على شكل 8";
+"calibration_step3" = "استمر 3-5 ثوانٍ حتى تحسين الدقة";
+"calibration_progress" = "تقدم المعايرة";
+"calibration_status" = "الحالة الحالية";
+"calibrating" = "جاري المعايرة";
+"calibration_done" = "تم";
+"continue_calibration" = "متابعة";
+"done_and_return" = "تم والعودة";
+
+// MARK: - Qibla
+"qibla_title" = "اتجاه القبلة";
+"current_heading" = "الاتجاه الحالي";
+"qibla_direction" = "اتجاه القبلة";
+"qibla_aligned" = "تمت المحاذاة مع القبلة";
+"rotate_clockwise" = "تدوير باتجاه عقارب الساعة";
+"rotate_counterclockwise" = "تدوير عكس اتجاه عقارب الساعة";
+"rotate_degrees_format" = "دور %.0f°";
+"reposition" = "إعادة تحديد الموقع";
+"back_to_home" = "الصفحة الرئيسية";
+"qibla_instruction" = "أدر هاتفك لمحاذاة السهم مع القبلة";
+
+// MARK: - Location Status
+"location_unknown" = "في انتظار الموقع...";
+"location_loading" = "جاري تحديد الموقع...";
+"location_authorized" = "تم الحصول على الموقع";
+"location_denied" = "تم رفض إذن الموقع";
+"location_error" = "خطأ في الموقع";
+
+// MARK: - Settings
+"settings_title" = "الإعدادات";
+"theme" = "السمة";
+"language" = "اللغة";
+"accuracy_tips" = "نصائح الدقة";
+"sound_feedback" = "التنبيه الصوتي";
+"help_center" = "مركز المساعدة";
+"privacy_policy" = "سياسة الخصوصية";
+"user_terms" = "شروط الخدمة";
+"subscription_terms" = "شروط الاشتراك";
+"restore_purchase" = "استعادة المشتريات";
+"upgrade_pro" = "الترقية إلى Pro";
+"select_theme" = "اختيار السمة";
+"select_language" = "اختيار اللغة";
+
+// MARK: - Themes
+"theme_classic" = "أزرق كلاسيكي";
+"theme_dark" = "داكن";
+"theme_light" = "فاتح";
+"theme_pro_ocean" = "Pro المحيط";
+"theme_pro_sunset" = "Pro غروب الشمس";
+
+// MARK: - Languages
+"lang_system" = "النظام";
+
+// MARK: - Subscription
+"upgrade_pro_title" = "الترقية إلى Pro";
+"subscribe_now" = "اشترك الآن";
+"monthly" = "شهري";
+"yearly" = "سنوي";
+"month" = "شهر";
+"year" = "سنة";
+"recommended" = "موصى به";
+"save_44" = "وفر 44%";
+"all_pro_benefits" = "جميع مزايا Pro";
+"short_term" = "جيد للاستخدام قصير المدى";
+"view_terms" = "عرض الشروط";
+"subscription_note" = "سيتم خصم الاشتراك من حساب Apple الخاص بك وسيتم تجديده تلقائياً";
+
+// MARK: - Benefits
+"benefit_adfree" = "تجربة خالية من الإعلانات";
+"benefit_themes" = "السمات والأنماط المتميزة";
+"benefit_styles" = "المزيد من أنماط الاتجاهات";
+"benefit_updates" = "الميزات المتميزة مع التحديثات";
+
+// MARK: - Purchase Messages
+"purchase_success" = "نجح الاشتراك!";
+"purchase_failed" = "فشل الاشتراك";
+"restore_success" = "تمت استعادة المشتريات!";
+"restore_failed" = "فشل استعادة المشتريات";
+
+// MARK: - Errors
+"error_product_not_found" = "المنتج غير موجود";
+"error_purchase_failed" = "فشل الشراء، يرجى المحاولة مرة أخرى";
+"error_restore_failed" = "فشل استعادة المشتريات";
+"error_user_cancelled" = "تم إلغاء الشراء";
+"error_purchase_pending" = "الشراء معلق";
+
+// MARK: - Legal Documents
+"privacy_policy_title" = "سياسة الخصوصية";
+"user_terms_title" = "شروط الخدمة";
+"subscription_terms_title" = "شروط الاشتراك";
+
+"privacy_policy_content" = "سياسة الخصوصية\n\nآخر تحديث: أبريل 2026\n\n1. جمع البيانات\nتقرأ البوصلة الرقمية مستشعرات اتجاه الجهاز وبيانات الموقع (لحساب اتجاه القبلة فقط).\n\n2. استخدام البيانات\n- بيانات الموقع تستخدم فقط لحساب اتجاه القبلة\n- لا يوجد نظام حساب أو مزامنة سحابية\n- لا يتم جمع معلومات شخصية بخلاف المتطلبات الوظيفية\n\n3. تخزين البيانات\nيتم تخزين جميع البيانات محلياً على جهازك.\n\n4. أطراف ثالثة\nنحن لا نشارك البيانات مع أطراف ثالثة.\n\n5. الاتصال\nلاستفسارات الخصوصية: support@digitalcompass.app";
+
+"user_terms_content" = "شروط الخدمة\n\nآخر تحديث: أبريل 2026\n\n1. القبول\nباستخدام البوصلة الرقمية، فإنك توافق على هذه الشروط.\n\n2. ترخيص الاستخدام\nالبوصلة الرقمية هي تطبيق مرجعي للأدوات. تعتمد النتائج على حالة الجهاز والبيئة.\n\n3. إخلاء المسؤولية\n- نتائج الاتجاه للإشارة فقط\n- الاستخدام في بيئات آمنة وقانونية\n- لا تعتمد فقط على هذا التطبيق للملاحة الحرجة\n\n4. التعديلات\nنحتفظ بالحق في تحديث الميزات والأسعار والشروط.\n\n5. التحديد\nنحن غير مسؤولين عن الأضرار الناتجة عن استخدام التطبيق.";
+
+"subscription_terms_content" = "شروط الاشتراك\n\nآخر تحديث: أبريل 2026\n\n1. التجديد التلقائي\nيتم تجديد الاشتراكات تلقائياً ما لم يتم إلغاؤها قبل 24 ساعة من نهاية الفترة.\n\n2. الدفع\nيتم الخصم من حساب Apple.\n\n3. الإلغاء\nيمكن الإلغاء في أي وقت من الإعدادات > Apple ID > الاشتراكات.\n\n4. الاسترداد\nيتم المعالجة وفقاً لسياسة Apple.\n\n5. الاستعادة\nاستعادة المشتريات على أي جهاز بنفس Apple ID.";
+
+"onboarding_title_1" = "الجهة والزاوية لحظياً";
+"onboarding_body_1" = "اتجاه الربع والدرجات 0–359° على قرص عالٍ التباين يسهل قراءته في الخارج.";
+"onboarding_title_2" = "الدقة والمعايرة";
+"onboarding_body_2" = "عند انخفاض الدقة، حرّك الجهاز ببطء على شكل 8 وابتعد عن المغناطيسات والبطاريات والتداخل.";
+"onboarding_title_3" = "اتجاه القبلة (مكة)";
+"onboarding_body_3" = "يُستخدم الموقع أثناء الاستخدام فقط لحساب السمت الكبير نحو مكة من مكانك.";
+"onboarding_next" = "التالي";
+"onboarding_get_started" = "ابدأ";
+"onboarding_skip" = "تخطٍ";
+"help_page_content" = "المساعدة\n\n• عند فتح التطبيق: تُحدَّث الجهة والدرجات فورياً عند دعم البوصلة الرقمية.\n\n• الدقة: تُظهر الشريط جيد/متوسط/ضعيف. عند الاهتتاز استخدم «المعايرة» بحركة الرقم 8.\n\n• القبلة: اسمح بتحديد الموقع أثناء الاستخدام. اضغط «إعادة التموضع» بعد تنقل بعيد.\n\n• Pro: بدون إعلانات، سمات وواجهات متقدّمة؛ تسترجع المشتريات من الإعدادات بنفس Apple ID.\n\nتنبيه: أداة مرجعية لا تعتد عليها وحدها في سلامة الانتقال.";

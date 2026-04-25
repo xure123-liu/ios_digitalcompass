@@ -1,0 +1,151 @@
+// MARK: - App
+"app_name" = "数字指南针";
+
+// MARK: - Navigation
+"back" = "返回";
+"done" = "完成";
+"ok" = "确定";
+
+// MARK: - Home
+"current_direction" = "当前方向";
+"accuracy_status" = "精度状态";
+"avoid_interference" = "远离磁铁/电池/电脑以避免干扰";
+"calibrate" = "校准";
+"qibla" = "麦加";
+"disclaimer" = "当前方向仅供参考，受设备环境影响";
+
+// MARK: - Accuracy Status
+"accuracy_good" = "良好";
+"accuracy_fair" = "一般";
+"accuracy_poor" = "较差";
+"accuracy_unknown" = "未知";
+
+// MARK: - Directions
+"direction_n" = "北";
+"direction_nne" = "北东北";
+"direction_ne" = "东北";
+"direction_ene" = "东东北";
+"direction_e" = "东";
+"direction_ese" = "东东南";
+"direction_se" = "东南";
+"direction_sse" = "南东南";
+"direction_s" = "南";
+"direction_ssw" = "南西南";
+"direction_sw" = "西南";
+"direction_wsw" = "西西南";
+"direction_w" = "西";
+"direction_wnw" = "西西北";
+"direction_nw" = "西北";
+"direction_nnw" = "北西北";
+
+// MARK: - Calibration
+"calibration_title" = "指南针校准";
+"calibration_instruction" = "请按图示缓慢移动手机";
+"calibration_step1" = "远离磁铁/电池/电脑等干扰源";
+"calibration_step2" = "缓慢做8字形摆动";
+"calibration_step3" = "保持3-5秒直到精度改善";
+"calibration_progress" = "校准进度";
+"calibration_status" = "当前状态";
+"calibrating" = "校准中";
+"calibration_done" = "完成";
+"continue_calibration" = "继续校准";
+"done_and_return" = "完成并返回";
+
+// MARK: - Qibla
+"qibla_title" = "麦加方向";
+"current_heading" = "当前朝向";
+"qibla_direction" = "麦加方向";
+"qibla_aligned" = "已对准麦加";
+"rotate_clockwise" = "顺时针旋转";
+"rotate_counterclockwise" = "逆时针旋转";
+"rotate_degrees_format" = "还需旋转%.0f°";
+"reposition" = "重新定位";
+"back_to_home" = "回到首页";
+"qibla_instruction" = "将手机旋转使箭头指向麦加方向";
+
+// MARK: - Location Status
+"location_unknown" = "等待定位...";
+"location_loading" = "定位中...";
+"location_authorized" = "已获取位置";
+"location_denied" = "定位权限被拒绝";
+"location_error" = "定位错误";
+
+// MARK: - Settings
+"settings_title" = "设置";
+"theme" = "主题";
+"language" = "语言";
+"accuracy_tips" = "精度提示";
+"sound_feedback" = "声音反馈";
+"help_center" = "帮助中心";
+"privacy_policy" = "隐私协议";
+"user_terms" = "用户服务条款";
+"subscription_terms" = "订阅条款";
+"restore_purchase" = "恢复购买";
+"upgrade_pro" = "升级 Pro";
+"select_theme" = "选择主题";
+"select_language" = "选择语言";
+
+// MARK: - Themes
+"theme_classic" = "经典蓝";
+"theme_dark" = "深色";
+"theme_light" = "浅色";
+"theme_pro_ocean" = "Pro 海洋";
+"theme_pro_sunset" = "Pro 日落";
+
+// MARK: - Languages
+"lang_system" = "跟随系统";
+
+// MARK: - Subscription
+"upgrade_pro_title" = "升级到 Pro";
+"subscribe_now" = "立即订阅";
+"monthly" = "月订";
+"yearly" = "年订";
+"month" = "月";
+"year" = "年";
+"recommended" = "推荐";
+"save_44" = "省 44%";
+"all_pro_benefits" = "包含全部Pro权益";
+"short_term" = "适合短期体验";
+"view_terms" = "查看订阅条款";
+"subscription_note" = "订阅将通过Apple账户扣费并自动续费";
+
+// MARK: - Benefits
+"benefit_adfree" = "去广告体验";
+"benefit_themes" = "高级主题与视觉样式";
+"benefit_styles" = "更丰富圆盘样式";
+"benefit_updates" = "持续更新高级功能";
+
+// MARK: - Purchase Messages
+"purchase_success" = "订阅成功！";
+"purchase_failed" = "订阅失败";
+"restore_success" = "购买恢复成功！";
+"restore_failed" = "恢复购买失败";
+
+// MARK: - Errors
+"error_product_not_found" = "商品未找到";
+"error_purchase_failed" = "购买失败，请重试";
+"error_restore_failed" = "恢复购买失败";
+"error_user_cancelled" = "购买已取消";
+"error_purchase_pending" = "购买等待中";
+
+// MARK: - Legal Documents
+"privacy_policy_title" = "隐私协议";
+"user_terms_title" = "用户服务条款";
+"subscription_terms_title" = "订阅条款";
+
+"privacy_policy_content" = "隐私协议\n\n最后更新：2026年4月\n\n1. 数据收集\n数字指南针读取设备方向传感器和定位数据（仅用于计算麦加方向）。\n\n2. 数据使用\n- 定位数据仅用于计算麦加方向\n- 不建立账号系统，不做云同步\n- 不收集功能无关的个人信息\n\n3. 数据存储\n所有数据仅存储在您的设备本地。\n\n4. 第三方\n我们不会与第三方共享数据。\n\n5. 联系方式\n隐私问题请联系：support@digitalcompass.app";
+
+"user_terms_content" = "用户服务条款\n\n最后更新：2026年4月\n\n1. 接受条款\n使用数字指南针即表示您同意本条款。\n\n2. 使用许可\n数字指南针是一款工具辅助应用。结果受设备状态和环境影响。\n\n3. 免责声明\n- 方向结果仅供参考\n- 请在安全、合法的环境下使用\n- 请勿仅依赖本应用进行关键导航\n\n4. 修改权利\n我们保留更新功能、价格和条款的权利。\n\n5. 责任限制\n我们对因使用本应用造成的损害不承担责任。";
+
+"subscription_terms_content" = "订阅条款\n\n最后更新：2026年4月\n\n1. 自动续费\n订阅将在每期结束前24小时自动续费，除非取消。\n\n2. 付款方式\n通过Apple账户扣费。\n\n3. 取消订阅\n可随时在设置 > Apple ID > 订阅中取消。\n\n4. 退款\n按Apple政策处理。\n\n5. 恢复购买\n可在任何使用相同Apple ID的设备上恢复购买。";
+
+"onboarding_title_1" = "实时方向与角度";
+"onboarding_body_1" = "高对比度圆盘上清晰显示方位与 0–359° 读数，便于在户外快速查看。";
+"onboarding_title_2" = "精度与校准";
+"onboarding_body_2" = "若精度不佳，请按 8 字轨迹缓慢移动手机，并远离磁铁、电池与强电磁设备。";
+"onboarding_title_3" = "麦加（朝拜）方向";
+"onboarding_body_3" = "仅在“使用中”需要定位，用于从当前位置计算相对麦加的大圆方位。";
+"onboarding_next" = "下一步";
+"onboarding_get_started" = "开始使用";
+"onboarding_skip" = "跳过";
+"help_page_content" = "使用帮助\n\n• 打开应用：设备支持数字指南针时，方向文字与角度会实时更新。\n\n• 精度：进度条与标签显示良好 / 一般 / 较差。读数不稳时可进入「去校准」按 8 字示意摆动手机。\n\n• 麦加方向：请允许定位（使用中）以计算相对麦加的方位。长距离移动后可点「重新定位」刷新。\n\n• 升级 Pro：去广告、解锁高级主题与圆盘样式，并优先获得后续高级能力；可在设置中用同一 Apple ID 恢复购买。\n\n说明：本应用为辅助工具，结果受环境影响，请勿作为安全关键场景的唯一依据。";

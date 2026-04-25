@@ -1,0 +1,151 @@
+// MARK: - App
+"app_name" = "數位指南針";
+
+// MARK: - Navigation
+"back" = "返回";
+"done" = "完成";
+"ok" = "確定";
+
+// MARK: - Home
+"current_direction" = "當前方向";
+"accuracy_status" = "精度狀態";
+"avoid_interference" = "遠離磁鐵/電池/電腦以避免干擾";
+"calibrate" = "校準";
+"qibla" = "麥加";
+"disclaimer" = "當前方向僅供參考，受設備環境影響";
+
+// MARK: - Accuracy Status
+"accuracy_good" = "良好";
+"accuracy_fair" = "一般";
+"accuracy_poor" = "較差";
+"accuracy_unknown" = "未知";
+
+// MARK: - Directions
+"direction_n" = "北";
+"direction_nne" = "北東北";
+"direction_ne" = "東北";
+"direction_ene" = "東東北";
+"direction_e" = "東";
+"direction_ese" = "東東南";
+"direction_se" = "東南";
+"direction_sse" = "南東南";
+"direction_s" = "南";
+"direction_ssw" = "南西南";
+"direction_sw" = "西南";
+"direction_wsw" = "西西南";
+"direction_w" = "西";
+"direction_wnw" = "西西北";
+"direction_nw" = "西北";
+"direction_nnw" = "北西北";
+
+// MARK: - Calibration
+"calibration_title" = "指南針校準";
+"calibration_instruction" = "請按圖示緩慢移動手機";
+"calibration_step1" = "遠離磁鐵/電池/電腦等干擾源";
+"calibration_step2" = "緩慢做8字形擺動";
+"calibration_step3" = "保持3-5秒直到精度改善";
+"calibration_progress" = "校準進度";
+"calibration_status" = "當前狀態";
+"calibrating" = "校準中";
+"calibration_done" = "完成";
+"continue_calibration" = "繼續校準";
+"done_and_return" = "完成並返回";
+
+// MARK: - Qibla
+"qibla_title" = "麥加方向";
+"current_heading" = "當前朝向";
+"qibla_direction" = "麥加方向";
+"qibla_aligned" = "已對準麥加";
+"rotate_clockwise" = "順時針旋轉";
+"rotate_counterclockwise" = "逆時針旋轉";
+"rotate_degrees_format" = "還需旋轉%.0f°";
+"reposition" = "重新定位";
+"back_to_home" = "回到首頁";
+"qibla_instruction" = "將手機旋轉使箭頭指向麥加方向";
+
+// MARK: - Location Status
+"location_unknown" = "等待定位...";
+"location_loading" = "定位中...";
+"location_authorized" = "已獲取位置";
+"location_denied" = "定位權限被拒絕";
+"location_error" = "定位錯誤";
+
+// MARK: - Settings
+"settings_title" = "設定";
+"theme" = "主題";
+"language" = "語言";
+"accuracy_tips" = "精度提示";
+"sound_feedback" = "聲音反饋";
+"help_center" = "幫助中心";
+"privacy_policy" = "隱私協議";
+"user_terms" = "用戶服務條款";
+"subscription_terms" = "訂閱條款";
+"restore_purchase" = "恢復購買";
+"upgrade_pro" = "升級 Pro";
+"select_theme" = "選擇主題";
+"select_language" = "選擇語言";
+
+// MARK: - Themes
+"theme_classic" = "經典藍";
+"theme_dark" = "深色";
+"theme_light" = "淺色";
+"theme_pro_ocean" = "Pro 海洋";
+"theme_pro_sunset" = "Pro 日落";
+
+// MARK: - Languages
+"lang_system" = "跟隨系統";
+
+// MARK: - Subscription
+"upgrade_pro_title" = "升級到 Pro";
+"subscribe_now" = "立即訂閱";
+"monthly" = "月訂";
+"yearly" = "年訂";
+"month" = "月";
+"year" = "年";
+"recommended" = "推薦";
+"save_44" = "省 44%";
+"all_pro_benefits" = "包含全部Pro權益";
+"short_term" = "適合短期體驗";
+"view_terms" = "查看訂閱條款";
+"subscription_note" = "訂閱將通過Apple帳戶扣費並自動續費";
+
+// MARK: - Benefits
+"benefit_adfree" = "去廣告體驗";
+"benefit_themes" = "高級主題與視覺樣式";
+"benefit_styles" = "更豐富圓盤樣式";
+"benefit_updates" = "持續更新高級功能";
+
+// MARK: - Purchase Messages
+"purchase_success" = "訂閱成功！";
+"purchase_failed" = "訂閱失敗";
+"restore_success" = "購買恢復成功！";
+"restore_failed" = "恢復購買失敗";
+
+// MARK: - Errors
+"error_product_not_found" = "商品未找到";
+"error_purchase_failed" = "購買失敗，請重試";
+"error_restore_failed" = "恢復購買失敗";
+"error_user_cancelled" = "購買已取消";
+"error_purchase_pending" = "購買等待中";
+
+// MARK: - Legal Documents
+"privacy_policy_title" = "隱私協議";
+"user_terms_title" = "用戶服務條款";
+"subscription_terms_title" = "訂閱條款";
+
+"privacy_policy_content" = "隱私協議\n\n最後更新：2026年4月\n\n1. 數據收集\n數位指南針讀取設備方向感測器和定位數據（僅用於計算麥加方向）。\n\n2. 數據使用\n- 定位數據僅用於計算麥加方向\n- 不建立帳號系統，不做雲端同步\n- 不收集功能無關的個人資訊\n\n3. 數據存儲\n所有數據僅存儲在您的設備本地。\n\n4. 第三方\n我們不會與第三方共享數據。\n\n5. 聯繫方式\n隱私問題請聯繫：support@digitalcompass.app";
+
+"user_terms_content" = "用戶服務條款\n\n最後更新：2026年4月\n\n1. 接受條款\n使用數位指南針即表示您同意本條款。\n\n2. 使用許可\n數位指南針是一款工具輔助應用。結果受設備狀態和環境影響。\n\n3. 免責聲明\n- 方向結果僅供參考\n- 請在安全、合法的環境下使用\n- 請勿僅依賴本應用進行關鍵導航\n\n4. 修改權利\n我們保留更新功能、價格和條款的權利。\n\n5. 責任限制\n我們對因使用本應用造成的損害不承擔責任。";
+
+"subscription_terms_content" = "訂閱條款\n\n最後更新：2026年4月\n\n1. 自動續費\n訂閱將在每期結束前24小時自動續費，除非取消。\n\n2. 付款方式\n通過Apple帳戶扣費。\n\n3. 取消訂閱\n可隨時在設定 > Apple ID > 訂閱中取消。\n\n4. 退款\n按Apple政策處理。\n\n5. 恢復購買\n可在任何使用相同Apple ID的設備上恢復購買。";
+
+"onboarding_title_1" = "即時方向與角度";
+"onboarding_body_1" = "在高對比圓盤上清楚顯示方位與 0–359°，方便戶外快速讀取。";
+"onboarding_title_2" = "精準度與校準";
+"onboarding_body_2" = "若精準度不佳，請依 8 字路徑慢速移動手機，並遠離磁鐵、電池與強電磁裝置。";
+"onboarding_title_3" = "麥加（禮拜）方向";
+"onboarding_body_3" = "僅在「使用期間」需要定位，用於從目前位置計算相對麥加的大圓方位。";
+"onboarding_next" = "下一步";
+"onboarding_get_started" = "開始使用";
+"onboarding_skip" = "略過";
+"help_page_content" = "使用說明\n\n• 開啟 App：裝置支援數位指南針時，方向文字與角度會即時更新。\n\n• 精準度：列與標籤顯示良好／一般／較差。讀值不穩時可至「去校準」依 8 字示意揮動手機。\n\n• 麥加方向：請允許定位（使用期間）以計算相對麥加的方位。長距離移動後可點「重新定位」更新。\n\n• 升級 Pro：去廣告、解鎖進階主題與圓盤樣式，並優先取得後續高階能力；可於設定中以相同 Apple ID 回復購買。\n\n說明：本應用為參考工具，結果受環境影響，請勿作為安全關鍵場景之唯一依據。";

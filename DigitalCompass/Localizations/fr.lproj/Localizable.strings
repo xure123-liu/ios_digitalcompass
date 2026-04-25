@@ -1,0 +1,151 @@
+// MARK: - App
+"app_name" = "Boussole Digitale";
+
+// MARK: - Navigation
+"back" = "Retour";
+"done" = "Terminé";
+"ok" = "OK";
+
+// MARK: - Home
+"current_direction" = "Direction Actuelle";
+"accuracy_status" = "Précision";
+"avoid_interference" = "Éloignez les aimants/batteries/ordinateurs";
+"calibrate" = "Calibrer";
+"qibla" = "Qibla";
+"disclaimer" = "Direction indicative uniquement, affectée par l'environnement";
+
+// MARK: - Accuracy Status
+"accuracy_good" = "Bonne";
+"accuracy_fair" = "Moyenne";
+"accuracy_poor" = "Faible";
+"accuracy_unknown" = "Inconnue";
+
+// MARK: - Directions
+"direction_n" = "Nord";
+"direction_nne" = "Nord-Nord-Est";
+"direction_ne" = "Nord-Est";
+"direction_ene" = "Est-Nord-Est";
+"direction_e" = "Est";
+"direction_ese" = "Est-Sud-Est";
+"direction_se" = "Sud-Est";
+"direction_sse" = "Sud-Sud-Est";
+"direction_s" = "Sud";
+"direction_ssw" = "Sud-Sud-Ouest";
+"direction_sw" = "Sud-Ouest";
+"direction_wsw" = "Ouest-Sud-Ouest";
+"direction_w" = "Ouest";
+"direction_wnw" = "Ouest-Nord-Ouest";
+"direction_nw" = "Nord-Ouest";
+"direction_nnw" = "Nord-Nord-Ouest";
+
+// MARK: - Calibration
+"calibration_title" = "Calibrage de la Boussole";
+"calibration_instruction" = "Déplacez votre téléphone lentement comme indiqué";
+"calibration_step1" = "Éloignez les aimants/batteries/ordinateurs";
+"calibration_step2" = "Balancez lentement en forme de 8";
+"calibration_step3" = "Maintenez 3-5 secondes jusqu'à amélioration";
+"calibration_progress" = "Progression du Calibrage";
+"calibration_status" = "État Actuel";
+"calibrating" = "Calibrage";
+"calibration_done" = "Terminé";
+"continue_calibration" = "Continuer";
+"done_and_return" = "Terminé & Retour";
+
+// MARK: - Qibla
+"qibla_title" = "Direction Qibla";
+"current_heading" = "Actuel";
+"qibla_direction" = "Direction Qibla";
+"qibla_aligned" = "Aligné avec Qibla";
+"rotate_clockwise" = "Tourner horaire";
+"rotate_counterclockwise" = "Tourner anti-horaire";
+"rotate_degrees_format" = "Tournez %.0f°";
+"reposition" = "Repositionner";
+"back_to_home" = "Accueil";
+"qibla_instruction" = "Tournez votre téléphone pour aligner la flèche avec Qibla";
+
+// MARK: - Location Status
+"location_unknown" = "Attente de localisation...";
+"location_loading" = "Localisation en cours...";
+"location_authorized" = "Localisation obtenue";
+"location_denied" = "Permission de localisation refusée";
+"location_error" = "Erreur de localisation";
+
+// MARK: - Settings
+"settings_title" = "Paramètres";
+"theme" = "Thème";
+"language" = "Langue";
+"accuracy_tips" = "Conseils de Précision";
+"sound_feedback" = "Retour Sonore";
+"help_center" = "Centre d'Aide";
+"privacy_policy" = "Politique de Confidentialité";
+"user_terms" = "Conditions d'Utilisation";
+"subscription_terms" = "Conditions d'Abonnement";
+"restore_purchase" = "Restaurer les Achats";
+"upgrade_pro" = "Passer à Pro";
+"select_theme" = "Choisir le Thème";
+"select_language" = "Choisir la Langue";
+
+// MARK: - Themes
+"theme_classic" = "Bleu Classique";
+"theme_dark" = "Sombre";
+"theme_light" = "Clair";
+"theme_pro_ocean" = "Pro Océan";
+"theme_pro_sunset" = "Pro Coucher de Soleil";
+
+// MARK: - Languages
+"lang_system" = "Système";
+
+// MARK: - Subscription
+"upgrade_pro_title" = "Passer à Pro";
+"subscribe_now" = "S'abonner Maintenant";
+"monthly" = "Mensuel";
+"yearly" = "Annuel";
+"month" = "mois";
+"year" = "an";
+"recommended" = "RECOMMANDÉ";
+"save_44" = "Économisez 44%";
+"all_pro_benefits" = "Tous les avantages Pro";
+"short_term" = "Bon pour court terme";
+"view_terms" = "Voir les Conditions";
+"subscription_note" = "L'abonnement sera facturé sur votre compte Apple et se renouvelle automatiquement";
+
+// MARK: - Benefits
+"benefit_adfree" = "Expérience sans publicité";
+"benefit_themes" = "Thèmes premium & styles";
+"benefit_styles" = "Plus de styles de cadran";
+"benefit_updates" = "Fonctions premium avec mises à jour";
+
+// MARK: - Purchase Messages
+"purchase_success" = "Abonnement réussi !";
+"purchase_failed" = "Abonnement échoué";
+"restore_success" = "Achats restaurés avec succès !";
+"restore_failed" = "Échec de la restauration";
+
+// MARK: - Errors
+"error_product_not_found" = "Produit non trouvé";
+"error_purchase_failed" = "Échec de l'achat, réessayez";
+"error_restore_failed" = "Échec de la restauration";
+"error_user_cancelled" = "Achat annulé";
+"error_purchase_pending" = "Achat en attente";
+
+// MARK: - Legal Documents
+"privacy_policy_title" = "Politique de Confidentialité";
+"user_terms_title" = "Conditions d'Utilisation";
+"subscription_terms_title" = "Conditions d'Abonnement";
+
+"privacy_policy_content" = "Politique de Confidentialité\n\nDernière mise à jour : Avril 2026\n\n1. Collecte de Données\nLa Boussole Digitale lit les capteurs d'orientation et les données de localisation (uniquement pour le calcul Qibla).\n\n2. Utilisation des Données\n- Données de localisation uniquement pour le calcul Qibla\n- Pas de système de compte ou de synchronisation cloud\n- Pas d'informations personnelles collectées au-delà des besoins fonctionnels\n\n3. Stockage des Données\nToutes les données sont stockées localement sur votre appareil.\n\n4. Tiers\nNous ne partageons pas les données avec des tiers.\n\n5. Contact\nQuestions de confidentialité : support@digitalcompass.app";
+
+"user_terms_content" = "Conditions d'Utilisation\n\nDernière mise à jour : Avril 2026\n\n1. Acceptation\nEn utilisant la Boussole Digitale, vous acceptez ces conditions.\n\n2. Licence d'Utilisation\nLa Boussole Digitale est une application de référence. Les résultats dépendent de l'état de l'appareil et de l'environnement.\n\n3. Avertissement\n- Résultats directionnels indicatifs uniquement\n- Utiliser dans un environnement sûr et légal\n- Ne pas compter uniquement sur cette app pour la navigation critique\n\n4. Modifications\nNous nous réservons le droit de mettre à jour les fonctions, prix et conditions.\n\n5. Limitation\nNous ne sommes pas responsables des dommages liés à l'utilisation de l'app.";
+
+"subscription_terms_content" = "Conditions d'Abonnement\n\nDernière mise à jour : Avril 2026\n\n1. Renouvellement Automatique\nLes abonnements se renouvellent automatiquement sauf annulation 24h avant la fin.\n\n2. Paiement\nFacturé sur le compte Apple.\n\n3. Annulation\nAnnuler à tout moment dans Réglages > Apple ID > Abonnements.\n\n4. Remboursement\nTraité selon la politique Apple.\n\n5. Restauration\nRestaurer les achats sur tout appareil avec le même Apple ID.";
+
+"onboarding_title_1" = "Direction & angle en direct";
+"onboarding_body_1" = "Direction cardinale et degrés (0–359°) sur un cadran haut contraste, lisible en extérieur.";
+"onboarding_title_2" = "Précision & calibration";
+"onboarding_body_2" = "Si la précision baisse, suivez le geste en 8 et éloignez-vous des aimants, piles et champs forts.";
+"onboarding_title_3" = "Direction de la Mecque (Qibla)";
+"onboarding_body_3" = "La localisation (pendant l’utilisation) sert seulement au relèvement du grand cercle vers La Mecque.";
+"onboarding_next" = "Suivant";
+"onboarding_get_started" = "Commencer";
+"onboarding_skip" = "Passer";
+"help_page_content" = "Aide\n\n• Ouvrir l’app : le texte et l’angle se mettent à jour en temps réel.\n\n• Précision : jauge Bon / Correct / Faible. Utilisez Calibrer si c’est instable.\n\n• Qibla : autorisez la localisation. Touchez Re-localiser après un long déplacement.\n\n• Pro : sans pub, thèmes et cadrans avancés ; restaurer les achats dans Réglages.\n\nAvertissement : outil d’aide, ne remplacez pas le jugement en situation critique.";
