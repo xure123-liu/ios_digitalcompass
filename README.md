@@ -175,6 +175,26 @@ git push -u origin main
 
 If the repo already has commits on GitHub, you may need `git pull --rebase origin main` before the first `push`, or use `git push -u origin main --force` only if you intend to replace remote history (use with care).
 
+### Version line: `main` (current) and legacy snapshot
+
+- **`main`**: The **authoritative** line — this is the version you should build and ship from (the full Xcode project, onboarding, i18n, StoreKit, etc.).
+- **Previous pre-force commit**: A force push replaced the old `main` tip. GitHub may still keep that commit object for some time. To **preserve the old tree as a named branch** (without changing `main`), you need the **full 40-character SHA** of the *old* `main` commit, then run:
+
+  ```powershell
+  .\scripts\preserve-legacy-branch.ps1 -FullCommitSha "PASTE_40_CHAR_SHA_HERE"
+  ```
+
+  This creates/updates a branch (default: `archive/legacy-pre-full-project`) on the remote so both histories remain browsable. If `fetch` fails, the object may have expired on the server, or the SHA is wrong—recover from an old local clone/backup or email from GitHub if available.
+
+- **Tag the current release** (recommended, does not depend on the old commit):
+
+  ```bash
+  git tag -a v1.0.0 -m "Current canonical release on main"
+  git push origin v1.0.0
+  ```
+
+**Next time** you need to overwrite `main` but keep a copy of the current tip: before pushing, run `git branch archive/backup-$(Get-Date -Format yyyyMMdd) main` and `git push -u origin archive/backup-...` so no recovery step is required.
+
 ## RTL Support (Arabic)
 
 The app automatically handles RTL layout for Arabic language:
